@@ -1,13 +1,21 @@
-<h1>Hi there, I'm Ryan 👋</h1>
+
+<h1>Hi there, I'm Ryan  <img width=50px src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif/">  </h1>
+
+<table>
+  <tr>
+    <td valign="middle"><h1>Hi there, I'm Ryan</h1></td>
+    <td valign="middle"><img width="50px" src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif"></td>
+  </tr>
+</table>
 
 I'm currently a Data Science student at the Federal University of Ceará (UFC)
-Here I try to share a little of my passion for technology in general, whether it's programming, data science, front-end, or anything else that catches my curiosity.
-This GitHub profile serves as a portfolio for my projects, personal studies, and academic work. Currently, my focus is on Front-end development and Data Visualization.
+<br >Here I try to share a little of my passion for technology in general, whether it's programming, data science, front-end, or anything else that catches my curiosity.
+My profile serves as a portfolio for my projects, personal studies, and academic work. Currently, my focus is on Front-end development and Data Visualization.
 
 
-
+<div>
 <div> 
-<h2> My Stack </h2>
+<h3> My Stack </h3>
 <img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -15,7 +23,7 @@ This GitHub profile serves as a portfolio for my projects, personal studies, and
 <img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />                     
 </div>
           
----
+
 ### Connect with Me
 
 <div align="left">
@@ -27,13 +35,14 @@ This GitHub profile serves as a portfolio for my projects, personal studies, and
   </a>
 </div>
 
----
+<br>
+<br>
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CtrlAltRyan&show_icons=false&theme=github_dark&include_all_commits=true&count_private=true&custom_title=Github%20Stats"/> 
   &nbsp;&nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CtrlAltRyan&layout=compact&langs_count=16&theme=github_dark"/>
 </div>
-
+</div>
 
 
