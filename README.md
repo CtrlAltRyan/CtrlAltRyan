@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1>Hi there, I'm Ryan 👋</h1>
 
-<!--
-**CtrlAltRyan/CtrlAltRyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a Data Science student at the Federal University of Ceará (UFC)
+Here I try to share a little of my passion for technology in general, whether it's programming, data science, front-end, or anything else that catches my curiosity.
+This GitHub profile serves as a portfolio for my projects, personal studies, and academic work. Currently, my focus is on Front-end development and Data Visualization.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div> 
+<h2> My Stack </h2>
+<img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />                     
+</div>
+          
+---
+### Connect with Me
+
+<div align="left">
+  <a href="https://linkedin.com/in/r" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:ryandsantosoliveira@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
+  </a>
+</div>
+
+---
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CtrlAltRyan&show_icons=false&theme=github_dark&include_all_commits=true&count_private=true&custom_title=Github%20Stats"/> 
+  &nbsp;&nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CtrlAltRyan&layout=compact&langs_count=16&theme=github_dark"/>
+</div>
+
+
+
