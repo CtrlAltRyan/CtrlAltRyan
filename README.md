@@ -5,7 +5,7 @@ I'm currently a Data Science student at the Federal University of Ceará (UFC)
 <br >Here I try to share a little of my passion for technology in general, whether it's programming, data science, front-end, or anything else that catches my curiosity.
 My profile serves as a portfolio for my projects, personal studies, and academic work. Currently, my focus is on Front-end development and Data Visualization.
 
-
+<br>
 <div>
 <div> 
 <h3> My Stack </h3>
