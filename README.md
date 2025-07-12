@@ -15,19 +15,7 @@ My profile serves as a portfolio for my projects, personal studies, and academic
 <img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />                     
 </div>
-          
-
-### Connect with Me
-
-<div align="left">
-  <a href="https://linkedin.com/in/r" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:ryandsantosoliveira@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
-  </a>
-</div>
-<p ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ltbyaoxrzimgx332naj3shsuvi&unique={true|1|on|yes}) p/>
+  
 <br>
 <br>
 
