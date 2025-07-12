@@ -34,7 +34,7 @@ My profile serves as a portfolio for my projects, personal studies, and academic
 <div align="left">
   <img height="163em" src="https://github-readme-stats.vercel.app/api?username=CtrlAltRyan&show_icons=false&theme=github_dark&include_all_commits=true&count_private=true&custom_title=Github%20Stats"/> 
   &nbsp;&nbsp;&nbsp;
-  <img height="163em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CtrlAltRyan&layout=compact&langs_count=16&theme=github_dark"/>
+  <img height="163em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CtrlAltRyan&layout=donut&langs_count=16&theme=github_dark"/>
 </div>
 </div>
 
