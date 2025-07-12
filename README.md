@@ -27,7 +27,7 @@ My profile serves as a portfolio for my projects, personal studies, and academic
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
   </a>
 </div>
-
+<p ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ltbyaoxrzimgx332naj3shsuvi&unique={true|1|on|yes}) p/>
 <br>
 <br>
 
@@ -36,6 +36,7 @@ My profile serves as a portfolio for my projects, personal studies, and academic
   &nbsp;&nbsp;&nbsp;
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CtrlAltRyan&layout=donut&langs_count=16&theme=github_dark"/>
 </div>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ltbyaoxrzimgx332naj3shsuvi&unique={true|1|on|yes})
 </div>
 
 
