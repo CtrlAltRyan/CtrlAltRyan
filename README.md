@@ -19,7 +19,7 @@ I'm currently a Data Science student at the Federal University of Ceará (UFC)
 <br>
 
 <div align="left">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CtrlAltRyan&show_icons=false&theme=github_dark&include_all_commits=true&count_private=true&custom_title=Github%20Stats"/> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CtrlAltRyan&show_icons=false&theme=github_dark&include_all_commits=false&count_private=true&custom_title=Github%20Stats"/> 
   &nbsp;&nbsp;&nbsp;
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CtrlAltRyan&layout=donut&langs_count=16&theme=github_dark"/>
 </div>
