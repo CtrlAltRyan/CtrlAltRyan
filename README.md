@@ -2,7 +2,7 @@
 <h1>Hi there, I'm Ryan  <img width=50px src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif/">  </h1>
 
 I'm currently a Data Science student at the Federal University of Ceará (UFC)
-<br >This is my space to share a bit of my passion for technology in general, along with my personal projects, academic work, programming  or anything else that catches my curiosity. 
+<br >This is my space to share a bit of my passion for technology in general, along with my personal projects, academic work or anything else that catches my curiosity. 
 
 <br>
 <div>
