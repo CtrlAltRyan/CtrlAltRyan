@@ -8,16 +8,19 @@ I'm currently a Data Science student at the Federal University of Ceará (UFC)
 <div>
 <div> 
 <h3> My Stack </h3>
+<!---
 <img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img src="https://i.imgur.com/D1psY92.png" width="41"/>
 <img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-
+-->
+ <img src="https://skillicons.dev/icons?i=python,js,c,html,css,postgres" />
   
 </div>
-  
+<div>
+</div>
 <br>
 <br>
 
